@@ -18,7 +18,7 @@
 *Real for SY bot:
 You can Use <code>full</code>
 1. SY Developer : <code>https://t.me/seng55</code>
-2. website : 
+2. website : <code>https://pancakesbot.com/</code>
 
 <img src="./assets/01.PNG">
 
