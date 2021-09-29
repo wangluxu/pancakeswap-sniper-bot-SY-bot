@@ -22,7 +22,7 @@ You can Use <code>full</code>
 1. SY Developer : <code>https://t.me/seng55</code>
 2. website : <code>https://pancakesbot.com/</code>
 
-<img src="./images/sbot.png">
+<img src="./images/01.png">
 
 *What's will you get
 To avoid scam, I will invite you to my private repository, aTo avoid scam, I will invite you to my private repository, and you will get whole of code, and any update if I push new update. Please only contact to Telegrame:<code>@Seng55</code> or <code>eeyang5@gmail.com</code> with subject <b>SY Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
