@@ -4,15 +4,15 @@ private_key = "0x00000000000000000000000000000000000000000000000000000000000000"
 
 spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR OTHER contract for buy the token
 
-AmountForSnipe = 0.0024  # Amount how much you want buy the token in WBNB OR OTHER.
-MinLiquidityAdded = 5  # Set how much minimum liquidity added in pair address that you want to buy. set in WBNB OR OTHER. (eg : 2, 4, 7). 2 mean 2 BNB liquidity added.
-
-SellToken = 0   # 0 = Not Sell after buy, 1 = Sell token after buy by take profit
-Takeprofit = 150 # On percent
+AmountForSnipe = 0.0010  # Amount how much you want buy the token in WBNB OR OTHER.
+MinLiquidityAdded = 10  # Set how much minimum liquidity added in pair address that you want to buy. set in WBNB OR OTHER. (eg : 2, 4, 7). 2 mean 2 BNB liquidity added.
+MaxSlippage = 25  # Max Slippage or Prince Impact
+SellToken = 1   # 0 = Not Sell after buy, 1 = Sell token after buy by take profit
+Takeprofit = 250 # On percent
 
 transactionRevertTime = 1000 #Limit for make transaction
-gasAmount = 400000 #Minimul limit is 210000, more much more better.
-gasPrice = 5 #Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 25).
+gasAmount = 600000 #Minimul limit is 210000, more much more better.
+gasPrice = 7 #Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 25).
 
 bscScanAPIKey= "NYBZQ1DI6FMBTQRJBV9YKRXAJHGY1N2HYE" #Your BSC API Key Get From https://bscscan.com
 
