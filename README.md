@@ -14,6 +14,7 @@
 2. Check liquidity & check BUY & Sell
 3. Check real price 
 4. You can't send transcription 
+5. Sell token
 
 *Real for SY bot:
 You can Use full
@@ -61,10 +62,10 @@ pancakeSwapFactoryAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"        
 bsc = "https://bsc-dataseed.binance.org/"                                        #BSC JSON-RPC
 -------------------------------------------------
 
-2. run with <code>SY_Bot_Client.exe</code> include Insert and console windows.
+2. run with <code>SBot.exe</code> include Insert and console windows.
 
 3. Insert Token Contract you want to sniper, than press "Sniper Start" You will see any working on console windows<br>
-   <img src="./assets/02.PNG">
+   <img src="./assets/02.png">
    
 8. Stop bot with "Stop Running".
 
