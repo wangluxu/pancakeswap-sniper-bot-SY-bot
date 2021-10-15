@@ -65,7 +65,7 @@ bsc = "https://bsc-dataseed.binance.org/"                                       
 2. run with <code>SBot.exe</code> include Insert and console windows.
 
 3. Insert Token Contract you want to sniper, than press "Sniper Start" You will see any working on console windows<br>
-   <img src="./assets/02.png">
+   <img src="./assets/02.PNG">
    
 8. Stop bot with "Stop Running".
 
