@@ -1,20 +1,20 @@
-* NOW THE BOT IS POSSIBLE FOR BSC: PANCAKESWAP (DEFAULT)
-  YOU CAN USE TO ANY DEFI SAME UNISWAP V2 AND PANCAKESWAP V2, BUT YOU NEED TO CHANGE pairabi, pancakeABI AND pancakeSwapFactoryABI
+* 现在这个机器人适用于币安链上的: Pancakeswap (默认)
+  你可以使用它去操作任何相似的defi应用，例如Uniswap或者Pancakeswap V2, 但是你需要去更改Pairabi, pancakeABI和pancakeSwapFactoryABI
 
  
-*IMPORTANT NOTES BEFORE RUNNING THE BOT
- CHECK TOKEN YOU WANT TO SNIPER IT NOT SCAM OR HONEYPOT OR SNIPER PROTECTION TOKEN (90% NEW TOKEN CAN BE SCAM)
+*运行本机器人之前的重要提示
+检查你想狙击的令牌，确保它不是貔貅或者没有杀科学家函数 (90%的新币是可以被扫描的)
 
-* NEW UPDATES
-1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
+* 新的更新
+1. 在新的版本中你可以使用BNB代替WBNB，这将更有助于你使用。
 
 
 *Demo for SY bot:
-1. You can Approve
-2. Check liquidity & check BUY & Sell
-3. Check real price 
-4. You can't send transcription 
-5. Sell token
+1. 你可以授权
+2. 检查流动性，购买和卖出
+3. 检查真实价格
+4. 你不能发送转录
+5. 卖出令牌
 
 *Real for SY bot:
 You can Use full
